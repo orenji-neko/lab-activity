@@ -1,6 +1,7 @@
-// Name: Mark Jess Anthony S. Enfermo BSIT-1B
-// Date: April 11, 2023
-// Descrption p32 String Builder Constructors
+/* Name: Mark Jess Anthony S. Enfermo
+ * Date: 11 April 2023
+ * Description: String, stringbuilder, and characters.
+ */
 
 public class StringBuilderConstructor {
     public static void main(String[] args) {

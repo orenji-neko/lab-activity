@@ -1,6 +1,7 @@
-// Name: Mark Jess Anthony S. Enfermo BSIT-1B
-// Date: April 11, 2023
-// Description: p28 String Value Of
+/* Name: Mark Jess Anthony S. Enfermo
+ * Date: 11 April 2023
+ * Description: String, stringbuilder, and characters.
+ */
 
 public class StringValueOf {
     public static void main( String [] args ) {

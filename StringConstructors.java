@@ -1,5 +1,7 @@
-// StringConstructors
-// Mark Jess Anthony S. Enfermo BSIT-1B
+/* Name: Mark Jess Anthony S. Enfermo
+ * Date: 11 April 2023
+ * Description: String, stringbuilder, and characters.
+ */
 
 public class StringConstructors {
 
